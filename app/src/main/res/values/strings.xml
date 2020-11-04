@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickrInfo</string>
+    <string name="enter_id">Enter ID in Flickr</string>
+    <string name="search">Search!</string>
+    <string name="result_will_be_here">Result will be here</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+
+    <string name="error_message">Something went wrong. Try again</string>
+</resources>
